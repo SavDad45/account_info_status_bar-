@@ -1,3 +1,1 @@
-## Readme
-
-# Heading 2
+# Readme
